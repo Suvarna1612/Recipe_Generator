@@ -1,0 +1,36 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+
+body {
+  margin: 0;
+  font-family: "Handlee", cursive;
+  font-style: normal;
+  font-weight: 600;
+  background-color: hsl(60, 13%, 92%);
+}
+
+.HeaderClass {
+  margin-top: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  font-style: normal;
+  font-size: larger;
+  background-color: #fafaf8;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.HeaderClass > img {
+  margin-right: 10px;
+} */
+
+.suggested-recipe-container {
+    color: #475467;
+    line-height: 28px;
+    font-size: 1.125rem;
+    font-weight: 400;
+}
+
+.suggested-recipe-container ul li, .suggested-recipe-container ol li {
+    margin-bottom: 8px;
+}
